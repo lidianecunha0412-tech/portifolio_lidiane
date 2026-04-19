@@ -29,7 +29,7 @@ projetos.forEach(projeto => {
     <p>${projeto.descricao}</p>
     <img src="${projeto.imagem}" width="300" height="200" alt="${projeto.nome}">
     <br><br>
-    <a href="${projeto.link}" target="_blank">🔗 Ver projeto</a>
+    <a href="${projeto.link}" target="_blank"> Ver projeto</a>
   `;
 
   container.appendChild(div);
