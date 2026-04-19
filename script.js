@@ -1,19 +1,19 @@
 const projetos = [
   {
     nome: "Cálculo de Salário",
-    descricao: "Sistema simples em JavaScript",
+    descricao: "Sistema simples de cálculo de salário",
     link: "projetos/salario.html",
     imagem: "imagens/salario.png"
   },
   {
     nome: "Comparar Números",
-    descricao: "Comparação entre valores",
+    descricao: "Sistema que identifica maior e menor valor ao comparar dois números",
     link: "projetos/comparar_numeros.html",
     imagem: "imagens/comparar_numeros.png"
   },
   {
     nome: "Cálculo de Média",
-    descricao: "Cálculo da média entre dois valores",
+    descricao: "Sistema de cálculo de média de notas",
     link: "projetos/media.html",
     imagem: "imagens/media.jpg"
   }
